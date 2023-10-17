@@ -2,7 +2,7 @@
 
 # Template
 
-<div class="btn btn-warning mt-3 ">raybo.org/slides_template</div>
+<div class="btn btn-warning mt-3 ">https://github.com/lmenale/slides_template</div>
 
 <p class="small mt-5">
   <span class="badge bg-dark me-1 ms-2">t</span> toolbar
